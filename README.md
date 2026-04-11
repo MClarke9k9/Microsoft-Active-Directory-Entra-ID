@@ -1,4 +1,4 @@
-# Microsoft Active Directory & Entra ID Hybrid Lab
+# Microsoft Active Directory & Entra ID 
 
 ## A hands-on hybrid identity project demonstrating how to deploy, configure, and manage on-premises Active Directory integrated with Microsoft Entra ID.
 This simulates a real-world enterprise environment where identity is managed across on-prem infrastructure and cloud services, enabling centralized authentication, SSO, and secure access control.
