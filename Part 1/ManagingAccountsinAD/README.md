@@ -75,6 +75,8 @@ Add-ADGroupMember NetAdmins -Members user3
 - Restarted system
 #### Remove Computer Object
 - Deleted computer object from Active Directory
+  <img width="895" height="475" alt="Screenshot 2026-04-10 at 8 56 46 PM" src="https://github.com/user-attachments/assets/3e7ce5b9-180b-4e83-94ab-681abc8e76a6" />
+
 #### Delegate Permissions
 - Delegated control to ```NetAdmins``` group
 - Permissions granted:
@@ -82,6 +84,8 @@ Add-ADGroupMember NetAdmins -Members user3
    * Write
    * Create All Child Objects
    * Delete All Child Objects
+  
+<img width="847" height="449" alt="Screenshot 2026-04-10 at 8 56 28 PM" src="https://github.com/user-attachments/assets/aecabc80-523e-42d9-bfd0-148449c34ce5" />
 
 #### Enables non-admin users to manage domain-joined systems
 
