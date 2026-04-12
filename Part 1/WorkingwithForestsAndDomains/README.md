@@ -57,6 +57,8 @@ This creates a hierarchical domain structure within the forest
 - Verified DNS resolution between domains:
     * ```ping somecompany.local```
 
+<img width="850" height="589" alt="Screenshot 2026-04-11 at 8 48 18 PM" src="https://github.com/user-attachments/assets/8210cdbd-a2a2-4f2d-b33f-6d9b3dd1ef83" />
+
 This confirms communication between the child and root domain controllers
 
 ----------------------------
